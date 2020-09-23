@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoWang816&layout=compact&show_owner=true)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=8pig&show_icons=true&title_color=46BAEB&icon_color=46BAEB")
+
+
 -->
