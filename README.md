@@ -6,7 +6,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Java](https://img.shields.io/badge/-Java-%23F05032?style=for-the-badge&logo=Java&logoColor=%23ffffff)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%23F05032?style=for-the-badge&logo=Spring Boot&logoColor=%23ffffff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%23F05032?style=for-the-badge&logo=SpringBoot&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
