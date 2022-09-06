@@ -8,6 +8,7 @@
 ![Java](https://img.shields.io/badge/-Java-%23031d30?style=for-the-badge&logo=Java)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-%23F05032?style=for-the-badge&logo=Spring%20Boot&logoColor=%23green&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=vite)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
