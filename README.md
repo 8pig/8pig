@@ -6,6 +6,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Java](https://img.shields.io/badge/-Java-%23031d30?style=for-the-badge&logo=Java)
+![Nest](https://img.shields.io/badge/-nestjs-%23E44D27?style=for-the-badge&logo=nestjs&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-%23F05032?style=for-the-badge&logo=Spring%20Boot&logoColor=%23green&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23F05032?style=for-the-badge&logo=Vite&logoColor=%23green&labelColor=%23F7DF1C&color=%23FFCE5A)
