@@ -1,38 +1,40 @@
- ### Hi Guys, Welcome To My Github 👋                                                                                                                                                     97,821 tokens                           
-                                                                                                                                                                                              9% used                                 
-     ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)                                                                                  $0.00 spent                             
-     ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)                                                                                                                                              
-     ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)                              LSP                                     
-     ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)                                                                                    LSPs are disabled                       
-     ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=ffffff)                                                                                                                       
-     ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)                                                                                                ▶ Modified Files                        
-     ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)                                                                                                                                           
-     ![Java](https://img.shields.io/badge/-Java-%23031d30?style=for-the-badge&logo=Java)                                                                                                                                              
-     ![Spring Boot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=ffffff)                                                                                                       
-     ![Nest](https://img.shields.io/badge/-NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff)                                                                                                                         
-     ![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=ffffff)                                                                                                                          
-     ![LangChain](https://img.shields.io/badge/-LangChain-%23000000?style=for-the-badge&logo=langchain&logoColor=ffffff)                                                                                                              
-     ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)                                                                                                                       
-     ![Webpack](https://img.shields.io/badge/-Webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=000000)                                                                                                                    
-     ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)                                                                                                                             
-     ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=ffffff)                                                                                                                                
-     ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)                                                                                                                           
-     ![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)                                                                                                                                        
-     ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=000000) 
+### Hi Guys, Welcome To My Github 👋
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![Java](https://img.shields.io/badge/-Java-%23031d30?style=for-the-badge&logo=Java)
+![Nest](https://img.shields.io/badge/-nestjs-%23E44D27?style=for-the-badge&logo=nestjs&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-%23F05032?style=for-the-badge&logo=Spring%20Boot&logoColor=%23green&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-%23F05032?style=for-the-badge&logo=Vite&logoColor=%23green&labelColor=%23F7DF1C&color=%23FFCE5A)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
+![TaroJs](https://img.shields.io/badge/-TaroJs-%230000b5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAA8CAYAAADi8H14AAAAAXNSR0IArs4c6QAABO9JREFUeAHtW8lqFUEU9TlFBRU1Ik4IwRlRiPNCcCAuVHChS0Vw5Q/4Ee4FF/oD4l4MuNZEs3AgRg1RiKhx1jiLGs8Jr5O2X3dVdfere8u0F4rXr+/tuueeVJ+uqn6pTaqIjYyMLESp+9CWoy1Bm4Xm03pqtdr5qT4zhNA3iJ0GHEfRdqFNEcR0j7kmNMEgl4SeQtvAYoVtlODJwkml0x1DQg1yn0Me3rFY5xGM0dCK+ON1wOvxOQdNy86igHOm5MC7CP6dphiPvtHRy/6tBANoC+JO15smqcQb2Z3owPDZAV/N4Pfp6o06NxIMcum/iHY4uiCAT956XSYcwE3p22yK8ej7ib77o/5tGnwBgSGRS9ydkIdfUQEZnytw3vc0LCP1pH7g+xE5MwnGKGhH0IkoMKDPyw5Y+IzQsjH9JYBMguGj7oZmIwB0xQGUJsFj+kucqQRj9M6Gj5Pz0Owmbr9XJlDAPgP+NlOMR98w8D2N959KMAL2oBkfgPFOBI9d5GEN8GTV5RvqX/LAZFlA9vtGUrB/F4KDkQfWmDVKQyT4I/AeggQcsfxxuOdQZgbxCNe/tuTIct9POhoIRgGc4qxKBgbw/TswHLDg4N7DMkuMzf3XQ8oWHPMPQn+HY99HD9MkIsTRS7AfkuBTvs9MOZfn1GcEsxWxBv1lJ/8KwZyeNYyOFBbKEvwipU/XU3aCIQ8knJvSodknALKt3oiZU7QyVpRgrtwG0hInR/AWBM1LC1Q+5yIP04ExWU8e2L8RbJxjGzp7AP3lHkSDJQFVWX/fgB2Xu6SBRJxIlQcG/gsE8/b7SrAW05IHwrITDP3l8niHpQgNt4s8cN+X+9ZlrKj+voU8DGUljo/g3QjiC8LQzIVgjt4ym+vfcL3LLCWNm8zRy+A4wSHqLx88LoVrTs+MC5PQCeb0jCTbTEt/OT9vWB7HwY4SXF8er447Ajl2kQcuj8tIG0kqOj17DP39YuIqGsEdpiBFnwvBZeWB7/jGXvHkrNWov+wr2uwJUX+5ucOHj804d31vCzL4r8LXafCbXDdMTvpq9eUxb5H5tmBh/0vkGxTIeRK3+V1feSgRXB6HRi7rdZEHxpUx7jFbb/MyCUhwiPrLmQOL923dGL1Fl8dO2KjBLOaSU7SfoKXodm2ia2qvy/QscVnur125r8h5QZnVT85U6eF4BpyBZ2+61/vZgxjB1HpvRolQs/oDdqsSgAHf5LIuVYKRfx0aN5k07LpEUm2Ct0sUmZHjP8EZxDTjNBcxt5rRka0PtREM/eUSd6MNoCc//0Gl6PI4FyQ1goGyHS1aqucC3YRgEXkgTk2CJ7z+VpXgZ5CHwSbcBU5dqIxg6G8r0LU5IWx+kJg8ELoKwchbCXmoIsHc2Olh4VKmNYK3SRWYyHMb+lv0x32Jrty+ihMM/V0JaAvc4DU9SlR/iV6cYOSsjP5WjWD+9uwhi5Y00REMeeDrda7gNIxvL/iKXtRECUZlm9BaRCscT3Zt/FDuSJpgLf3lyO2Wo3U8U1UI7oM8lPntxDhjOY/ECIb+zgW25MvNnHALh3t/uZmFTIxgAOC7N62XrCr6S9IlCdbSX67celmshlWBYE7PUv9BRYJwEYKhv8tRzGKJglJyiC+P4xhECEZCLXlgrWoPOCaf6ATzB9JDLFTLpF469qHAJwpFev3lpEs9fwBpxe4J7SMAYgAAAABJRU5ErkJggg==)
+![UNIAPP](https://img.shields.io/badge/-UNIAPP-%23CCC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABCElEQVRoge3YMa4BURSH8Y8o7UAp0WgkotBZwluAfhqlZSgUGr23ENUUCpppJnTswAIUSCaTiziZJ8d9/193zdzrfMltABF5plb+oLscDoAV0Pn8OC/lwDhL0k35QT3wstcIuM61Cj0IhXiNuAvOFwr5SgrxRiHeKMSbhnHfAVgU1i1gajhnBpwK6wnQtgxkDTlmSTq/L7rLYQ9byG+WpLvCOT8YQ6K5WgrxRiHeKMQbhXijEG8U4o1CvIkmxPrDquwMrI37KlFJSJake2BUxVlW0VytaEKsV6t5+8Ohak3rRmtIH9hav/QvRHO1FOKNQrwJheQfn+I9wflCIeNHLzuQc51PRP6rC1ZeIm1I8cC5AAAAAElFTkSuQmCC&logoColor=fff)
+![python](https://img.shields.io/badge/-python-%23031d30?style=for-the-badge&logo=python)
+![langchain](https://img.shields.io/badge/-python-%23031d30?style=for-the-badge&logo=langchain)
+<!--
+**8pig/8pig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-     <!--                                                                                                                                                                                                                             
-     🤖 **AI Agent & LLM**                                                                                                                                                                                                            
-     ![LangChain](https://img.shields.io/badge/-LangChain-%23000000?style=for-the-badge&logo=langchain&logoColor=ffffff)                                                                                                              
-     ![LangGraph](https://img.shields.io/badge/-LangGraph-%23000000?style=for-the-badge&logo=langgraph&logoColor=ffffff)                                                                                                              
-     ![Spring AI](https://img.shields.io/badge/-Spring%20AI-%236DB33F?style=for-the-badge&logo=spring&logoColor=ffffff)                                                                                                               
-     ![RAG](https://img.shields.io/badge/-RAG-%23FF6B6B?style=for-the-badge)                                                                                                                                                          
-     -->                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                      
-     <!-- **小程序 & 跨平台**                                                                                                                                                                                                         
-     ![TaroJs](https://img.shields.io/badge/-TaroJs-%230000B5?style=for-the-badge&logo=taro&logoColor=ffffff)                                                                                                                         
-     ![UNIAPP](https://img.shields.io/badge/-UNIAPP-%23CCCCCC?style=for-the-badge&logo=uniapp&logoColor=ffffff)                                                                                                                       
-     -->                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                      
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8pig&show_icons=true&theme=radical)                                                                                                                 
-                                                                                                                                                                                                                                      
-     [野猪佩奇_牛马版 - 掘金](https://juejin.cn/user/1239904845567447/posts)     
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8pig&show_icons=true&theme=radical)
+
+
+[野猪佩奇_牛马版 - 掘金](https://juejin.cn/user/1239904845567447/posts)
